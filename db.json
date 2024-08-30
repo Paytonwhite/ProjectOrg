@@ -1,6 +1,5 @@
 {
-  org_project_sort 
-  [
+  "org_project_sort": [
     {
       "proj_id": 101,
       "org_name": "AI Research",
@@ -18,4 +17,3 @@
     }
   ]
 }
-
